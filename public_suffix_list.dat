@@ -6719,7 +6719,7 @@ org.zw
 
 // newGTLDs
 
-// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-10-17T15:16:23Z
+// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-12-18T15:17:07Z
 // This list is auto-generated, don't edit it manually.
 // aaa : American Automobile Association, Inc.
 // https://www.iana.org/domains/root/db/aaa.html
@@ -6949,7 +6949,7 @@ art
 // https://www.iana.org/domains/root/db/arte.html
 arte
 
-// asda : Wal-Mart Stores, Inc.
+// asda : Asda Stores Limited
 // https://www.iana.org/domains/root/db/asda.html
 asda
 
@@ -10065,7 +10065,7 @@ ski
 // https://www.iana.org/domains/root/db/skin.html
 skin
 
-// sky : Sky International AG
+// sky : Sky UK Limited
 // https://www.iana.org/domains/root/db/sky.html
 sky
 
@@ -10773,7 +10773,7 @@ xin
 // https://www.iana.org/domains/root/db/xn--3bst00m.html
 集团
 
-// xn--3ds443g : TLD REGISTRY LIMITED OY
+// xn--3ds443g : Beijing TLD Registry Technology Limited
 // https://www.iana.org/domains/root/db/xn--3ds443g.html
 在线
 
@@ -11129,7 +11129,7 @@ yahoo
 // https://www.iana.org/domains/root/db/yamaxun.html
 yamaxun
 
-// yandex : Yandex Europe B.V.
+// yandex : ADC Tech Netherlands B.V.
 // https://www.iana.org/domains/root/db/yandex.html
 yandex
 
